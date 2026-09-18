@@ -3,18 +3,18 @@
 
   # Sarthak Wadhwa 👋
 
-  ### Developer · Scalable Backend Systems · Cloud · Architecture & Infrastructure
+  ### Backend Developer · APIs · Distributed Systems · Software Engineering
 
-  Building useful things, learning continuously, and solving interesting problems.
+  Building practical software, learning continuously, and solving interesting problems.
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sarthakwadhwa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:sarthakwadhwa2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=39D353&center=true&width=500&lines=Hi%2C+I'm+Sarthak;Backend+Developer;Python+%7C+Java+%7C+C%2B%2B;Distributed+Systems;API+Development">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF073A&center=true&width=500&lines=Hi%2C+I'm+Sarthak;Backend+Developer;Python+%7C+Java+%7C+C%2B%2B;Distributed+Systems;API+Development&filter=drop-shadow(0%200%208px%20%2339D353)" alt="Typing SVG">
 </div>
 
 ---
@@ -22,9 +22,9 @@
 <div align="center">
   <h3>✦ About Me</h3>
 
-  **Backend-focused developer** interested in scalable systems, distributed architecture, cloud infrastructure, and building real products.
+  **Backend-focused developer** working with Python, Java, and C++ to build APIs, distributed systems, and practical software solutions.
 
-  `BUILD` · `LEARN` · `SOLVE` · `SHIP`
+  `BUILD` · `LEARN` · `SOLVE` · `IMPROVE`
 </div>
 
 ---
@@ -32,19 +32,11 @@
 ## 🛠️ Tech I Work With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,docker,aws,gcp,linux,mongodb,mysql,postgres,git,github,vscode&perline=7">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,spring,flask,fastapi,docker,linux,kafka,opencv,mysql,postgres,git,github&perline=7">
 </div>
 
 ---
 
 ## 📊 GitHub
 
-## 📊 GitHub
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakwadhwa2005&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph">
-</div>
