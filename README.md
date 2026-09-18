@@ -41,8 +41,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
 
+## 📊 GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakwadhwa2005&theme=tokyo-night&hide_border=true&area=true" width="95%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakwadhwa2005&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph">
 </div>
