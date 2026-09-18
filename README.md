@@ -12,7 +12,7 @@
   <a href="https://sarthakwadhwa.me">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
   </a>
-  <a href="https://www.linkedin.com/in/sarthakwadhwa">
+  <a href="https://linkedin.com/in/sarthakwadhwa2005">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
   </a>
   <a href="mailto:sarthakwadhwa2005@gmail.com">
@@ -46,7 +46,7 @@
 
 ## 📊 GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://github.com/sarthakwadhwa2005/github-readme-streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
