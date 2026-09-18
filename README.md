@@ -1,38 +1,37 @@
 <div align="center">
+  <img src="./assets/banner.gif" width="100%" alt="Sarthak Wadhwa">
 
-<img src="./assets/banner.gif" width="100%" alt="Sarthak Wadhwa">
+  # Sarthak Wadhwa 👋
 
-# Sarthak Wadhwa 👋
+  ### Developer · Scalable Backend Systems · Cloud · Architecture & Infrastructure
 
-### Developer · Scalable Backend Systems · Cloud · Architecture & Infrastructure
+  Building useful things, learning continuously, and solving interesting problems.
 
-Building useful things, learning continuously, and solving interesting problems.
+  <br>
 
-<br>
+  <a href="https://sarthakwadhwa.me">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
+  </a>
+  <a href="https://www.linkedin.com/in/sarthakwadhwa">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
+  </a>
+  <a href="mailto:sarthakwadhwa2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  </a>
+</div>
 
-<a href="https://sarthakwadhwa.me">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
-</a>
-<a href="https://www.linkedin.com/in/sarthakwadhwa">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
-</a>
-<a href="mailto:sarthakwadhwa2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=39D353&center=true&width=500&lines=Hi%2C+I'm+Sarthak;Backend+Developer;Python+%7C+Java+%7C+C%2B%2B;Distributed+Systems;API+Development">
 </div>
 
 ---
 
 <div align="center">
+  <h3>✦ About Me</h3>
 
-### ✦ About Me
+  **Backend-focused developer** interested in scalable systems, distributed architecture, cloud infrastructure, and building real products.
 
-**Backend-focused developer** interested in scalable systems,  
-distributed architecture, cloud infrastructure, and building real products.
-
-`BUILD` · `LEARN` · `SOLVE` · `SHIP`
-
+  `BUILD` · `LEARN` · `SOLVE` · `SHIP`
 </div>
 
 ---
@@ -40,52 +39,17 @@ distributed architecture, cloud infrastructure, and building real products.
 ## 🛠️ Tech I Work With
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,docker,aws,gcp,linux,mongodb,mysql,postgres,git,github,vscode&perline=7">
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | What it is |
-|:---|:---|
-| 🧠 **[Cross-Environment TPC-H Runtime Prediction](https://github.com/sarthakwadhwa2005/Cross-Environment-TPC-H-Runtime-Prediction)** | Predicting query runtime across different computing environments |
-| 🖼️ **[Distributed Image Processing System](https://github.com/sarthakwadhwa2005/Distributed-Image-Processing-System)** | Distributed image-processing workflows built with Python |
-| ⚓ **[Docksmith](https://github.com/sarthakwadhwa2005/Docksmith)** | Exploring container-oriented and deployment workflows |
-| 📅 **[Event Management](https://github.com/sarthakwadhwa2005/Event-Management)** | Web application for event management |
-| 🔐 **[GDPR Consent Manager](https://github.com/sarthakwadhwa2005/gdpr-consent-manager)** | GDPR-focused consent management project |
-| 🍔 **[Online Food Delivery System](https://github.com/sarthakwadhwa2005/Online-Food-Delivery-System)** | Web-based food delivery application |
-
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,docker,aws,gcp,linux,mongodb,mysql,postgres,git,github,vscode&perline=7">
 </div>
 
 ---
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakwadhwa2005&theme=tokyo-night&hide_border=true&area=true" width="95%">
-
-</div>
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
 
 <div align="center">
-
-### 🌌
-
-**Good code. Better systems. Bigger ideas.**
-
-<br>
-
-`Thanks for stopping by.`
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakwadhwa2005&theme=tokyo-night&hide_border=true&area=true" width="95%">
 </div>
