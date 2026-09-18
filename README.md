@@ -39,6 +39,8 @@
 
 ## 📊 GitHub
 
+## 📊 GitHub
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
 
 <div align="center">
