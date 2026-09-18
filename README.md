@@ -8,9 +8,9 @@
   Building useful things, learning continuously, and solving interesting problems.
 
   <p align="center">
-  <a href="https://linkedin.com/in/sarthakwadhwa2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:sarthakwadhwa2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+    <a href="https://www.linkedin.com/in/sarthakwadhwa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 </div>
 
 <div align="center">
@@ -39,13 +39,9 @@
 
 ## 📊 GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
-
-## 📊 GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8)](https://git.io/streak-stats)
-
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=sarthakwadhwa2005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&stroke=39d353&border_radius=8" alt="GitHub Streak">
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=sarthakwadhwa2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakwadhwa2005&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph">
