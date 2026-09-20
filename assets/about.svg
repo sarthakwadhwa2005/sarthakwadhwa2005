@@ -9,6 +9,18 @@
 <circle r="3.5" cy="30" fill="#9ff4ff" filter="url(#g)"><animate attributeName="cx" values="60;940;60" dur="6s" repeatCount="indefinite"/></circle>
 <circle cx="60" cy="30" r="4" fill="#0b1030" stroke="#7b5cff" stroke-width="2"/><circle cx="940" cy="30" r="4" fill="#0b1030" stroke="#7b5cff" stroke-width="2"/>
 <text x="500" y="76" text-anchor="middle" font-size="17" fill="#9ff4ff" clip-path="url(#tg)" filter="url(#g)" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace">Building practical software, learning continuously, solving interesting problems.</text>
+<text
+  x="445"
+  y="60"
+  font-size="28"
+  font-weight="700"
+  letter-spacing="2"
+  fill="#7f8fd6"
+  style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace">
+  ABOUT ME
+</text>
+
+  
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.100;0.140;0.9;0.95;1" dur="12s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0;0 -6;0 -6" keyTimes="0;0.100;0.140;0.9;0.95;1" dur="12s" repeatCount="indefinite"/><text x="500" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#eef3ff" style="font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif">I build backend systems and AI-assisted applications,</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.160;0.200;0.9;0.95;1" dur="12s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0;0 -6;0 -6" keyTimes="0;0.160;0.200;0.9;0.95;1" dur="12s" repeatCount="indefinite"/><text x="500" y="162" text-anchor="middle" font-size="24" font-weight="700" fill="#eef3ff" style="font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif">working with APIs, RAG, LLMs, and distributed systems.</text></g>
 <rect x="286.0" y="188" width="91" height="32" rx="16" fill="#9ff4ff" fill-opacity="0.02" stroke="#2e3a80" stroke-width="1.5"><animate attributeName="stroke" values="#2e3a80;#9ff4ff;#2e3a80;#2e3a80" keyTimes="0;0.08;0.25;1" dur="4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="0.02;0.16;0.02;0.02" keyTimes="0;0.08;0.25;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></rect>
